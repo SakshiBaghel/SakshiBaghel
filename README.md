@@ -1,7 +1,7 @@
 # Hi, I'm Sakshi Baghel 👋
 
 🎓 Computer Science & Engineering undergraduate at **MNNIT Allahabad**  
-💻 Full-Stack Developer (MERN) | Java | DSA  
+💻 Full-Stack Developer (MERN) | C++ | DSA  
 🚀 Interested in building scalable, user-focused web applications
 
 ---
