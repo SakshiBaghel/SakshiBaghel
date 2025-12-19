@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sakshi Baghel 👋
 
-<!--
-**SakshiBaghel/SakshiBaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering undergraduate at **MNNIT Allahabad**  
+💻 Full-Stack Developer (MERN) | Java | DSA  
+🚀 Interested in building scalable, user-focused web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I enjoy working on **end-to-end web projects**, from designing clean user interfaces to implementing secure backend logic.  
+Most of my work focuses on solving **real-world problems** using modern web technologies while strengthening my fundamentals in **Data structures, OOP, Operating Systems**.
+
+---
+
+## 🚀 What I Work On
+
+- Full-stack web applications using **React, Node.js, Express, MongoDB**
+- Real-time features like chat and interactive gameplay
+- UI/UX-focused frontend development
+- Logic-heavy JavaScript projects and browser-based games
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Java, C++, JavaScript  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Express, PHP  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 🎯 Areas of Interest
+
+- Web Development  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Operating Systems  
+
+--- 
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: sakshibaghel302004@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sakshi-baghel-464a47285/  
+- 💻 GitHub: https://github.com/SakshiBaghel  
